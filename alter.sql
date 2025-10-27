@@ -1,0 +1,5 @@
+ALTER TABLE suppliers
+ALTER COLUMN phone TYPE VARCHAR(100);
+
+
+SELECT * FROM suppliers
